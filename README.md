@@ -1,6 +1,6 @@
 # Cognitive Test UI
 
-Asalam Aliukum everyone👋🏻. I am Basmala Sabra.This is a **static UI design** for a cognitive test results page. The design presents a user's score based on different cognitive abilities, including **Reaction Time, Memory, Verbal Skills, and Visual Processing**. The layout is clean, modern, and visually appealing.
+Asalam Aliukum everyone👋🏻. I am Basmala Sabra. This is a **static UI design** for a cognitive test results page. The design presents a user's score based on different cognitive abilities, including **Reaction Time, Memory, Verbal Skills, and Visual Processing**. The layout is clean, modern, and visually appealing.
 
 ## 🎨 Features
 
@@ -27,7 +27,10 @@ Asalam Aliukum everyone👋🏻. I am Basmala Sabra.This is a **static UI design
 https://github.com/Basmala-sabra/Cognitive-Test-UI
 ```
 
-2- Open index.html in any modern web browser.
+2- Open index.html in any web browser.
+
+OR:
+View Project Online: (https://basmala-sabra.github.io/Cognitive-Test-UI/)
 
 ## License
 

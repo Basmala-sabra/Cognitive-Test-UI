@@ -52,9 +52,9 @@ h2 span {
   background-image: (to top, #453eb8 10%, #181381);
 }
 h2 span.first {
-  font-size: 60px;
+  font-size: 52px;
   font-weight: 800;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
 }
 h2 span.second {
   font-size: 15px;
@@ -72,6 +72,7 @@ p {
   padding-bottom: 5px;
   max-width: 210px;
   text-align: center;
+  line-height: 1.4rem;
 }
 
 .secondCard {
@@ -115,7 +116,7 @@ ul {
   margin-left: auto;
   padding-right: 10px;
   color: black;
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 620;
 }
 .remainresult {
