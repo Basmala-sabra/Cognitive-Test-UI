@@ -4,16 +4,16 @@
   box-sizing: border-box;
 }
 body {
-  width: 100%;
+  width: 100%; /* By default The width of the body depends on it’s content. */
   height: 100%;
   background-color: #eee;
 }
 .card {
   width: 34.5rem;
   height: 50rem;
-  display: flex;
+  display: flex; /* children become flex iteams */
   flex-direction: row;
-  margin: auto;
+  margin: auto; /*center the container */
   font-family: "Hanken Grotesk", sans-serif;
 }
 .firstCard,
