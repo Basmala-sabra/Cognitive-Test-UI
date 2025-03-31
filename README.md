@@ -34,7 +34,7 @@ View Project Online: (https://basmala-sabra.github.io/Cognitive-Test-UI/)
 
 ## License
 
-This project is open-source, so feel free to modified it.
+This project is open-source, so feel free to add your contributions!
 
 ## Author
 
